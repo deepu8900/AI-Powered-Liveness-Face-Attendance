@@ -1,4 +1,4 @@
-AI-Powered Liveness Face Attendance System
+#AI-Powered Liveness Face Attendance System
  Project Overview
 
 This project implements a real-time face attendance system with liveness detection using Deep Learning and Computer Vision. It can identify employees/students from a camera feed and verify they are real (not a photo or video) before marking attendance.
